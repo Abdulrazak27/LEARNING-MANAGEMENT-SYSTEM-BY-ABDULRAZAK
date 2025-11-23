@@ -16,6 +16,7 @@ Update profile information
 
 📚 Course Management
 
+
 Admin can add, edit, delete courses
 
 Courses contain: title, description, instructor, image, etc.
@@ -193,3 +194,7 @@ If you'd like to improve this project or report bugs, feel free to open an issue
 👍 License
 
 This project is free to use for learning and improvement.
+
+screenshots of project:
+<img width="1919" height="1079" alt="lms-sql1" src="https://github.com/user-attachments/assets/4f324f98-a5ce-41ff-9824-6a9fb2f87b1a" />
+
