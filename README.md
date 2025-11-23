@@ -1,5 +1,3 @@
-<img width="1919" height="1079" alt="lms-sql1" src="https://github.com/user-attachments/assets/3c6461ec-b860-4c42-bf46-251bbee0c668" />🌟 Learning Management System (LMS)
-
 A full-stack Learning Management System built with React (frontend), Spring Boot (backend), and MySQL (database).
 This system supports course management, assessments, user progress tracking, certificates, discussions, and an admin panel.
 
