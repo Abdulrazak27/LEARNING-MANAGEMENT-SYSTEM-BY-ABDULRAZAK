@@ -189,6 +189,17 @@ Learning Management System — Full Stack Project
 
 If you'd like to improve this project or report bugs, feel free to open an issue or PR.
 
+Screenshots of the project
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/6fafea26-ef39-4a1d-8c5a-5a68ee684b08" />
+<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/f846d603-7175-4d0c-aef1-68a1ad67e73b" />
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/5ca7b6a3-57b8-4f52-be30-8d265d677e2d" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/8001b58e-4fd5-4f01-bb16-8eed106088a6" />
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/6ead005f-5e5c-4fc8-bbe6-8b17d4cd574e" />
+<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/5ef7811e-8fba-4390-bc92-9953f68ccb71" />
+<img width="1917" height="873" alt="image" src="https://github.com/user-attachments/assets/70c6a2a1-7b12-45bb-84d7-9c0d6e7d20a1" />
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/36808ee1-d62c-49fb-8021-68f2b7a92f9a" />
+
+
 👍 License
 
 This project is free to use for learning and improvement.
