@@ -196,7 +196,6 @@ Screenshots of the project
 <img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/8001b58e-4fd5-4f01-bb16-8eed106088a6" />
 <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/6ead005f-5e5c-4fc8-bbe6-8b17d4cd574e" />
 <img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/5ef7811e-8fba-4390-bc92-9953f68ccb71" />
-<img width="1917" height="873" alt="image" src="https://github.com/user-attachments/assets/70c6a2a1-7b12-45bb-84d7-9c0d6e7d20a1" />
 <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/36808ee1-d62c-49fb-8021-68f2b7a92f9a" />
 
 
